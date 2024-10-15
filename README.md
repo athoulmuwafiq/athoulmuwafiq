@@ -37,8 +37,6 @@ The tech world is always evolving, and so am I. I'm constantly updating my skill
 
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Feel free to reach out!
 
-[Insert your contact information or links to social profiles here]
-
 ---
 
 Thanks for visiting my profile! Don't forget to star ⭐ repositories you find interesting!
