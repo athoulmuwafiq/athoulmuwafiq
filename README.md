@@ -6,7 +6,7 @@ Hello! I'm a passionate fullstack developer with expertise in PHP and JavaScript
 
 ### 🛠 Tech Stack
 
-- **Backend**: PHP, Laravel
+- **Backend**: PHP, Laravel, Javascript (Hono, Express)
 - **Frontend**: JavaScript, React, Vue.js
 - **Database**: MySQL, PostgreSQL
 - **DevOps**: Docker, Git
