@@ -44,10 +44,3 @@ I'm a passionate Full Stack Developer with expertise in modern web technologies.
 
 ## 🤝 Let's Connect
 - Email: athoulmuwafiq@gmail.com.com
-
-
----
-<div align="center">
-  <p>⭐️ From [athoulmuwafiq](https://github.com/athoulmuwafiq)</p>
-  <p>Feel free to star and fork this repository 🌟</p>
-</div>
