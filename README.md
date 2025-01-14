@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hello, I'm [Your Name]</h1>
+  <h1>👋 Hello, I'm Athoul Muwafiq</h1>
   <p>Full Stack Developer | Software Engineer</p>
 </div>
 
@@ -41,37 +41,13 @@ I'm a passionate Full Stack Developer with expertise in modern web technologies.
 ![REST API](https://img.shields.io/badge/-REST%20API-FF6C37?style=flat-square&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
-## 🌟 Featured Projects
-Here are some of my notable projects:
-
-1. **[Project Name]**
-   - Description of the project
-   - Tech stack used
-   - Live demo link
-   - Repository link
-
-2. **[Project Name]**
-   - Description of the project
-   - Tech stack used
-   - Live demo link
-   - Repository link
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=athoulmuwafiq&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=athoulmuwafiq&theme=dark" alt="GitHub Streak" />
-</div>
 
 ## 🤝 Let's Connect
-- LinkedIn: [Your LinkedIn]()
-- Twitter: [Your Twitter]()
-- Portfolio: [Your Website]()
-- Email: your.email@example.com
+- Email: athoulmuwafiq@gmail.com.com
 
 
 ---
 <div align="center">
-  <p>⭐️ From [your-username](https://github.com/your-username)</p>
+  <p>⭐️ From [athoulmuwafiq](https://github.com/athoulmuwafiq)</p>
   <p>Feel free to star and fork this repository 🌟</p>
 </div>
