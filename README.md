@@ -21,6 +21,7 @@ I'm a passionate Full Stack Developer with expertise in modern web technologies.
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Hono](https://img.shields.io/badge/-Hono-FF0000?style=flat-square&logoColor=white)
+![NestJS](https://img.shields.io/badge/-Nest-FF0000?style=flat-square&logoColor=white)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
