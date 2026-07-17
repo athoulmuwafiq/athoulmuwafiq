@@ -16,7 +16,7 @@ Building production-grade web applications and decentralized systems. Experience
 
 ### Focus Areas
 
-- **System Architecture:** Architecting robust, high-performance applications (including HRIS migrations and Point of Sale systems).
+- **System Architecture:** Architecting robust, high-performance applications.
 - **Web3 & DeFi:** Developing cross-exchange automation and scalable decentralized protocols.
 - **UI/UX:** Emphasizing clean, minimalist, and highly functional interfaces.
 
